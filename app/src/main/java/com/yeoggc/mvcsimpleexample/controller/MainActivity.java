@@ -26,6 +26,11 @@ public class MainActivity extends AppCompatActivity implements OnWeathInfoListen
 
     }
 
+
+    /**
+     *   注释1
+     */
+
     private void initView() {
 
         tvDate = (TextView) findViewById(R.id.tvDate);
